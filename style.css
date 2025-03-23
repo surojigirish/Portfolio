@@ -1278,7 +1278,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     --fs-4: 18px;
     --fs-6: 15px;
     --fs-7: 15px;
-    --fs-8: 12px;
+    --fs-8: 15px;
 
   }
 
@@ -1380,7 +1380,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .navbar-list { gap: 20px; }
 
-  .navbar-link { --fs-8: 14px; }
+  .navbar-link { font-size: 15px; }
 
 
 
